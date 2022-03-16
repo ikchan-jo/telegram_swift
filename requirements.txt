@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+markdownify
+discord~=1.7.3
